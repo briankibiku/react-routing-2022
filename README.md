@@ -40,9 +40,11 @@ Step 3 Add below code to your return method
           </Routes>
         </div>
       </Router>
-    </>```
+    </>
+   ```
     
 Step 4 Use root like so
+
 ```
           <a
             className="btn btn-primary"
@@ -52,6 +54,7 @@ Step 4 Use root like so
             href="all-chats/"
           >
             Submit
-          </a>```
+          </a>
+          ```
 
 🥷🥷 Enjoy and Happy Hacking 🥷🥷
