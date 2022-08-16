@@ -1,9 +1,9 @@
 # All about react routing using react-router-dom V6
 
-Step 1
+## Step 1
 ```npm install react-router-dom```
 
-Step 2 Import code below in you App.js
+## Step 2 Import code below in you App.js
 ```import {
   BrowserRouter as Router,
   Switch,
@@ -12,7 +12,7 @@ Step 2 Import code below in you App.js
 } from "react-router-dom";
 ```
 
-Step 3 Add below code to your return method
+## Step 3 Add below code to your return method
 
 ```
     <>
@@ -43,7 +43,7 @@ Step 3 Add below code to your return method
     </>
    ```
     
-Step 4 Use root like so
+## Step 4 Use root like so
 
 ```
           <a
